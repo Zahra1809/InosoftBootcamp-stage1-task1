@@ -1,0 +1,46 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container-with-border {
+    border: 2px solid black;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: #65311b;
+    color: #facc00;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.about h2, .about h3 {
+    color: #333;
+}
+
+.contact {
+    background-color: #f4f4f4;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.contact h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #b08244;
+    color: black;
+    text-align: center;
+    padding: 1rem 0;
+}
